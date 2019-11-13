@@ -1,0 +1,10 @@
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\bin\Debug\turingnator.exe.config
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\bin\Debug\turingnator.exe
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\bin\Debug\turingnator.pdb
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.csprojAssemblyReference.cache
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.Properties.Resources.resources
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.csproj.GenerateResource.cache
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.csproj.CoreCompileInputs.cache
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.exe
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.pdb
+C:\Users\lab001a\Desktop\turingnator\turingnator\turingnator\obj\Debug\turingnator.Form1.resources
